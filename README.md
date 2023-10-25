@@ -9,3 +9,4 @@
    - Augmented Monte Carlo (AMCL) + Particle Random Sampling
    - Augmented Monte Carlo (AMCL) + Particle Random Sampling + N_eff
         - (N_eff = 1 / sum(weight^2) s.t. N_eff < (number of particles / 2 ))
+   - Grid Fast SLAM
